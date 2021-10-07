@@ -1,0 +1,582 @@
+[
+    {
+        "id": 1,
+        "Name of Mobile": "As3",
+        "category": "Mobiles",
+        "category_id": "1",
+        "Price": "15000",
+        "color type": "Red",
+        "Brand": "oppo",
+        "image":"https://ibb.co/bgPB200"
+    },
+    {
+        "id": 2,
+        "Name of Mobile": "A54",
+        "category": "Mobiles",
+        "category_id": "1",
+        "Price": "20000",
+        "color type": "blue",
+        "Brand": "oppo",
+        "image":"https://ibb.co/JzcfQ8S"
+    },
+    {
+        "id": 3,
+        "Name of Mobile": "F9pro",
+        "category": "Mobiles",
+        "category_id": "1",
+        "Price": "19000",
+        "color type": "red",
+        "Brand": "oppo",
+        "image":"https://ibb.co/zXb8dJY"
+    },
+    {
+        "id": 4,
+        "Name of Mobile": "F17",
+        "category": "Moviles",
+        "category_id": "1",
+        "Price": "15000",
+        "color type": "blue",
+        "Brand": "oppo",
+        "image":"https://ibb.co/pWG0RhZ"
+    },
+    {
+        "id": 5,
+        "Name of Mobile": "motoG16",
+        "category": "Mobiles",
+        "category_id": "1",
+        "Price": "15000",
+        "color type": "red",
+        "Brand": "moto",
+        "image":"https://ibb.co/SBWxQKs"
+    },
+    {
+        "id": 6,
+        "Name of Mobile": "motoG9",
+        "category": "Mobiles",
+        "category_id": "1",
+        "Price": "15000",
+        "color type": "black",
+        "Brand": "moto",
+        "image":"https://ibb.co/JjYWZYB"
+    },
+    {
+        "id": 7,
+        "Name of Mobile": "motoe7",
+        "category": "Mobiles",
+        "category_id": "1",
+        "Price": "16000",
+        "color type": "Gray",
+        "Brand": "moto",
+        "image":"https://ibb.co/gP1xYxd"
+    },
+    {
+        "id": 8,
+        "Name of Mobile": "motoe7plus",
+        "category": "Mobiles",
+        "category_id": "1",
+        "Price": "15000",
+        "color type": "black",
+        "Brand": "moto",
+        "image":"https://ibb.co/b6hRHzd"
+    },
+    {
+        "id": 9,
+        "Name of Mobile": "Realme5pro",
+        "category": "Mobiles",
+        "category_id": "1",
+        "Price": "18000",
+        "color type": "green",
+        "Brand": "Realme",
+        "image":"https://ibb.co/7k0yqXL"
+    },
+    {
+        "id": 10,
+        "Name of Mobile": "Realmec21y",
+        "category": "Mobiles",
+        "category_id": "1",
+        "Price": "19000",
+        "color type": "blue",
+        "Brand": "realme",
+        "image":"https://ibb.co/PW6966j"
+    },
+    {
+        "id": 11,
+        "Name of Mobile": "Realmec11",
+        "category": "Mobiles",
+        "category_id": "1",
+        "Price": "15000",
+        "color type": "black",
+        "Brand": "realme",
+        "image":"https://ibb.co/NnRPC1H"
+    },
+    {
+        "id": 12,
+        "Name of Mobile": "Realmenarzo30",
+        "category": "Mobiles",
+        "category_id": "1",
+        "Price": "15000",
+        "color type": "blueandblack",
+        "Brand": "realme",
+        "image":"https://ibb.co/k2t94ZF"
+    },
+    {
+        "id": 13,
+        "Name of Mobile": "vivoV21",
+        "category": "Mobiles",
+        "category_id": "1",
+        "Price": "19000",
+        "color type": "blue",
+        "Brand": "vivo",
+        "image":"https://ibb.co/mCzbDTY"
+    },
+    {
+        "id": 14,
+        "Name of Mobile": "vivoX16",
+        "category": "Mobiles",
+        "category_id": "1",
+        "Price": "15000",
+        "color type": "blue",
+        "Brand":"vivo",
+        "image":"https://ibb.co/BZh1Z4t"
+    },
+    {
+        "id": 15,
+        "Name of Mobile": "vivoY30",
+        "category": "Mobiles",
+        "category_id": "1",
+        "Price": "16000",
+        "color type": "white",
+        "Brand": "vivo",
+        "image":"https://ibb.co/SfnpSrV"
+    },
+    {
+        "id": 16,
+        "Name of Mobile": "vivoy20",
+        "category": "Mobiles",
+        "category_id": "1",
+        "Price": "15000",
+        "color type": "blue",
+        "Brand": "vivo",
+        "image":"https://ibb.co/RCP4BM4"
+    },
+    {
+        "id": 17,
+        "Name of Shoe": "Night",
+        "category": "shoes",
+        "category_id": "2",
+        "Price": "1500",
+        "color type": "white and gray",
+        "Brand": "night",
+        "image":"https://ibb.co/yVFd00X"
+    },
+    {
+        "id": 18,
+        "Name of shoe": "Puma",
+        "category": "shoes",
+        "category_id": "2",
+        "Price": "1000",
+        "color type": "red",
+        "Brand": "Puma",
+        "image":"https://ibb.co/bJFLzRn"
+    },
+    {
+        "id": 19,
+        "Name of shoe": "sprax",
+        "category": "shoes",
+        "category_id": "2",
+        "Price": "650",
+        "color type": "blue",
+        "Brand": "sparx",
+        "image":"https://ibb.co/qr5DZnG"
+    },
+    {
+        "id": 20,
+        "Name of shoe": "woodland",
+        "category": "shoes",
+        "category_id": "2",
+        "Price": "900",
+        "color type": "Gray",
+        "Brand": "woodland",
+        "image":"https://ibb.co/GHX4hVm"
+    },
+    {
+        "id": 21,
+        "Name of shoe": "adidas",
+        "category": "shoes",
+        "category_id": "2",
+        "Price": "900",
+        "color type": "blue",
+        "Brand": "Addidas",
+        "image":"https://ibb.co/k5N91yC"
+    },
+    {
+        "id": 22,
+        "Name of shoe": "Bourge",
+        "category": "shoes",
+        "category_id": "2",
+        "Price": "1500",
+        "color type": "Green and black",
+        "Brand": "Bourge",
+        "image":"https://ibb.co/ftBs0NH"
+    },
+    {
+        "id": 23,
+        "Name of shoe": "Asain",
+        "category": "shoes",
+        "category_id": "2",
+        "Price": "1000",
+        "color type": "blue and white",
+        "Brand": "Asain",
+        "image":"https://ibb.co/s9VFgXF"
+    },
+    {
+        "id": 24,
+        "Name of shoe": "clymb",
+        "category": "shoes",
+        "category_id": "2",
+        "Price": "1500",
+        "color type": "black",
+        "Brand": "clymb",
+        "image":"https://ibb.co/VwBgM9L"
+    },
+    {
+        "id": 25,
+        "Name of shirt": "formal",
+        "category": "shirts",
+        "category_id": "3",
+        "Price": "600",
+        "color type": "light blue",
+        "Brand": "Diverse",
+        "image":"https://ibb.co/xS0pcZZ"
+    },
+    {
+        "id": 26,
+        "Name of shirt": "formal",
+        "category": "shirts",
+        "category_id": "3",
+        "Price": "500",
+        "color type": "blue",
+        "Brand": "Diverse",
+        "image":"https://ibb.co/PZf9wZk"
+    },
+    {
+        "id": 27,
+        "Name of shirt": "Regular",
+        "category": "shirts",
+        "category_id": "3",
+        "Price": "450",
+        "color type": "white",
+        "Brand": "Diverse",
+        "image":"https://ibb.co/DVvbfZn"
+    },
+    {
+        "id": 28,
+        "Name of shirt": "Formal",
+        "category": "shirts",
+        "category_id": "3",
+        "Price": "200",
+        "color type": "white",
+        "Brand": "Diverse",
+        "image":"https://ibb.co/56bHNMX"
+    },
+    {
+        "id": 29,
+        "Name of shirt": "t-shrit",
+        "category": "shirts",
+        "category_id": "3",
+        "Price": "400",
+        "color type": "multi",
+        "Brand": "Diverse",
+        "image":"https://ibb.co/z82smTQ"
+    },
+    {
+        "id":30,
+        "Name of shirt": "t-shrit",
+        "category": "shirts",
+        "category_id": "3",
+        "Price": "600",
+        "color type": "gray",
+        "Brand": "Diverse",
+        "image":"https://ibb.co/C9vhjGQ"
+    },
+    {
+        "id": 31,
+        "Name of shirt": "t-shrit",
+        "category": "shrits",
+        "category_id": "3",
+        "Price": "500",
+        "color type": "black",
+        "Brand": "Diverse",
+        "image":"https://ibb.co/dG0NdVp"
+    },
+    {
+        "id": 32,
+        "Name of shirt": "t-shrit",
+        "category": "shrits",
+        "category_id": "3",
+        "Price": "300",
+        "color type": "black",
+        "Brand": "Diverse",
+        "image":"https://ibb.co/PM9kFdj"
+    },
+    {
+        "id": 33,
+        "Name of pant": "formal",
+        "category": "pants",
+        "category_id": "4",
+        "Price": "300",
+        "color type": "lightyellow",
+        "Brand": "yarro",
+        "image":"https://ibb.co/qMHMrpj"
+    },
+    {
+        "id": 34,
+        "Name of pant": "formal",
+        "category": "pants",
+        "category_id": "4",
+        "Price": "400",
+        "color type": "gray",
+        "Brand": "Benmartin",
+        "image":"https://ibb.co/F5RJMWW"
+    },
+    {
+        "id": 35,
+        "Name of pant": "formal",
+        "category": "pants",
+        "category_id": "4",
+        "Price": "300",
+        "color type": "yellow",
+        "Brand": "Benmartin",
+        "image":"https://ibb.co/5MMTs7j"
+    },
+    {
+        "id": 36,
+        "Name of pant": "jeans",
+        "category": "pants",
+        "category_id": "4",
+        "Price": "300",
+        "color type": "blue",
+        "Brand": "Jeans",
+        "image":"https://ibb.co/30MXScW"
+    },
+    {
+        "id": 37,
+        "Name of pant": "nightpant",
+        "category": "pants",
+        "category_id": "4",
+        "Price": "300",
+        "color type": "black",
+        "Brand": "RR",
+        "image":"https://ibb.co/2jF05M9"
+    },
+    {
+        "id": 38,
+        "Name of pant": "nightpant",
+        "category": "pants",
+        "category_id": "4",
+        "Price": "300",
+        "color type": "black",
+        "Brand": "RR",
+        "image":"https://ibb.co/Y7vYJ0x"
+    },
+    {
+        "id": 39,
+        "Name of pant": "night",
+        "category": "pants",
+        "category_id": "4",
+        "Price": "500",
+        "color type": "blue",
+        "Brand": "Rr",
+        "image":"https://ibb.co/JdLBXTX"
+    },
+    {
+        "id": 40,
+        "Name of pant": "Jeans",
+        "category": "pants",
+        "category_id": "4",
+        "Price": "400",
+        "color type": "blue",
+        "Brand": "Tonjeans",
+        "image":"https://ibb.co/qncVQT9"
+    },
+    {
+        "id": 41,
+        "Name of pant": "Jeans",
+        "category": "pants",
+        "category_id": "4",
+        "Price": "350",
+        "color type": "blue",
+        "Brand": "Tonjeans",
+        "image":"https://ibb.co/WD4vsQN"
+    },
+    {
+        "id": 42,
+        "Name of pant": "Jeans",
+        "category": "pants",
+        "category_id": "4",
+        "Price": "300",
+        "color type": "black",
+        "Brand": "Tonjeans",
+        "image":"https://ibb.co/vd4T372"
+    },
+    {
+        "id": 43,
+        "Name of laptop": "Dell",
+        "category": "laptops",
+        "category_id": "5",
+        "Price": "75000",
+        "color type": "red",
+        "Brand": "Dell",
+        "image":"https://ibb.co/C03j1WQ"
+    },
+    {
+        "id": 44,
+        "Name of laptop": "Dell",
+        "category": "laptops",
+        "category_id": "5",
+        "Price": "50000",
+        "color type": "sliver",
+        "Brand": "Dell",
+        "image":"https://ibb.co/MS2tX5Q"
+    },
+    {
+        "id": 45,
+        "Name of laptop": "Dell",
+        "category": "laptops",
+        "category_id": "5",
+        "Price": "65000",
+        "color type": "sliver",
+        "Brand": "Dell",
+        "image":"https://ibb.co/K221my5"
+    },
+    {
+        "id": 46,
+        "Name of laptop": "hp",
+        "category": "laptops",
+        "category_id": "5",
+        "Price": "75000",
+        "color type": "sliver",
+        "Brand": "Hp",
+        "image":"https://ibb.co/2v1r3Zb"
+    },
+    {
+        "id": 47,
+        "Name of laptop": "hp",
+        "category": "laptops",
+        "category_id": "5",
+        "Price": "85000",
+        "color type": "red",
+        "Brand": "Hp",
+        "image":"https://ibb.co/Y3YhsLj"
+    },
+    {
+        "id": 48,
+        "Name of laptop": "hp",
+        "category": "laptops",
+        "category_id": "5",
+        "Price": "55000",
+        "color type": "sliver",
+        "Brand": "Hp",
+        "image":"https://ibb.co/Jj6YW5H"
+    },
+    {
+        "id": 49,
+        "Name of laptop": "lenovo",
+        "category": "laptops",
+        "category_id": "5",
+        "Price": "55000",
+        "color type": "black",
+        "Brand": "lenovo",
+        "image":"https://ibb.co/vXXdLJm"
+    },
+    {
+        "id": 50,
+        "Name of laptop": "lenovo",
+        "category": "laptops",
+        "category_id": "5",
+        "Price": "75000",
+        "color type": "blue",
+        "Brand": "lenovo",
+        "image":"https://ibb.co/ykf2jDZ"
+    },
+    {
+        "id": 51,
+        "Name of laptop": "lenovo",
+        "category": "laptops",
+        "category_id": "5",
+        "Price": "50000",
+        "color type": "black",
+        "Brand": "lenovo",
+        "image":"https://ibb.co/2gM0FNJ"
+    },
+    {
+        "id": 52,
+        "Name of watch": "fasttrack",
+        "category": "watchs",
+        "category_id": "6",
+        "Price": "2000",
+        "color type": "blue",
+        "Brand": "Fasttrack",
+        "image":"https://ibb.co/TLS19jm"
+    },
+    {
+        "id": 53,
+        "Name of watch": "Titan",
+        "category": "watchs",
+        "category_id": "6",
+        "Price": "5000",
+        "color type": "sliver",
+        "Brand": "Titan",
+        "image":"https://ibb.co/gdbG4qm"
+    },
+    {
+        "id": 54,
+        "Name of watch": "Fasttrack",
+        "category": "watchs",
+        "category_id": "6",
+        "Price": "1500",
+        "color type": "black",
+        "Brand": "Fasttrack",
+        "image":"https://ibb.co/9qmLR9x"
+    },
+    {
+        "id": 55,
+        "Name of watch": "Rolex",
+        "category": "watchs",
+        "category_id": "6",
+        "Price": "8000",
+        "color type": "black",
+        "Brand": "Rolex",
+        "image":"https://ibb.co/Kqhxn3B"
+    },
+    {
+        "id": 56,
+        "Name of watch": "Titan",
+        "category": "watchs",
+        "category_id": "6",
+        "Price": "5000",
+        "color type": "sliver",
+        "Brand": "Titan",
+        "image":"https://ibb.co/VHrYNCP"
+    },
+    {
+        "id": 57,
+        "Name of watch": "Fasttrack",
+        "category": "watchs",
+        "category_id": "6",
+        "Price": "3500",
+        "color type": "black",
+        "Brand": "Fasttrack",
+        "image":"https://ibb.co/b7DLB6F"
+    },
+    {
+        "id": 58,
+        "Name of watch": "Fasttrack",
+        "category": "watchs",
+        "category_id": "6",
+        "Price": "2500",
+        "color type": "black",
+        "Brand": "Fasttrack",
+        "image":"https://ibb.co/QnNVH3T"
+    }
+]

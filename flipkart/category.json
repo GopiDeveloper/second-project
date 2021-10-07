@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "category": "Mobiles"
+    },
+    {
+        "id":2,
+        "category": "shoes"
+    },
+    {
+        "id":3,
+        "category": "shrits"
+    },
+    {
+        "id":4,
+        "category": "pants"
+    },
+    {
+        "id":5,
+        "category": "laptops"
+    },
+    {
+        "id":6,
+        "category": "watchs"
+    }
+]
